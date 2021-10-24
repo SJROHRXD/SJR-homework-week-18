@@ -1,12 +1,12 @@
-# Workout Tracker 🏃‍♀️ #
+# Week 18: Workout Tracker 🏃‍♀️ #
 
 ## Repository 🌼
 
-[SJR-homework-week-10](https://github.com/SJROHRXD/SJR-homework-week-10/blob/master/)
+[SJR-homework-week-18](https://github.com/SJROHRXD/SJR-homework-week-13)
 
 ## Video Demo 🌷
 
-[Team Profile Generator - SJROHRXD](https://youtu.be/GOcSOpUHNxU)
+[ - SJROHRXD]()
 
 ## Table of Contents ##
 
@@ -33,7 +33,7 @@
         👟 I want to be able to log multiple exercises in a workout on a given day.
 
         👟 I should also be able to track the name, type, weight, sets, reps, and duration of exercise.
-        
+
         👟 If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
 
