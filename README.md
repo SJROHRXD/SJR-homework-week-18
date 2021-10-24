@@ -61,7 +61,7 @@ Fork if you desire! Feedback is greatly appreciated!
 
 ## Licensing 🧾
 
-[![license](https://img.shields.io/github/license/SJROHRXD/SJR-homework-week-10?color=hotpink&style=plastic)](https://github.com/SJROHRXD/SJR-homework-week-10/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/SJROHRXD/SJR-homework-week-18?color=hotpink&style=plastic)](https://github.com/SJROHRXD/SJR-homework-week-18/blob/master/LICENSE)
 
 
 Copyright &copy; 2021
