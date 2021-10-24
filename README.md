@@ -2,7 +2,7 @@
 
 ## Repository 🌼
 
-[SJR-homework-week-18](https://github.com/SJROHRXD/SJR-homework-week-13)
+[SJR-homework-week-18](https://github.com/SJROHRXD/SJR-homework-week-18)
 
 ## Video Demo 🌷
 
