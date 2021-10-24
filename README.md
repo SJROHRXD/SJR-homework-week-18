@@ -71,4 +71,4 @@ Copyright &copy; 2021
 
 [SJROHRXD's GitHub](https://github.com/SJROHRXD)
 
-This README was generated with 🌼🌿🌷 and 🤍 by Sarah Jeanne Rohr.
+This README was generated with 🌼🌷🌻 and 🤍 by Sarah Jeanne Rohr.
