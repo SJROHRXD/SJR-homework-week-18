@@ -4,23 +4,23 @@
 
 [SJR-homework-week-18](https://github.com/SJROHRXD/SJR-homework-week-18)
 
+
+### Live Link ⚡
+
+[Heroku](https://work0ut.herokuapp.com/?id=617647c3e48e8100166c0c7d)
+
+
 ## Video Demo 🌷
 
-[ - SJROHRXD]()
+[Workout Tracker - SJROHRXD](https://youtu.be/HskVkJ38jCc)
 
-## Screenshots 🌻
-
-xxx
 
 ## Table of Contents ##
 
 - [Repository](#Repository-)
 - [Video Demo](#Video-Demo-)
-- [Screenshots](#Screenshots-)
 - [Description](#Description-)
 - [Installation](#Installation-)
-- [Tech](#Tech-)
-- [Testing](#Testing-)
 - [Contribution](#Contribution-)
 - [Licensing](#Licensing-)
 - [Contact](#Contact-)
@@ -43,15 +43,7 @@ xxx
 
 ## Installation 🛠
 
-Be sure to initialize! Start the prompts by running 'node index.js' from the terminal.
-
-
-## Tech 🖥
-
-
-
-## Testing 🧷
-
+Be sure to initialize! Start the prompts by running 'node server.js' from the terminal.
 
 
 ## Contribution 🤝
