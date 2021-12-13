@@ -12,7 +12,7 @@
 
 ## Video Demo 🌷
 
-[Workout Tracker - SJROHRXD](https://youtu.be/HskVkJ38jCc)
+[Workout Tracker - SJROHRXD](https://youtu.be/LboayeCOFg4)
 
 
 ## Table of Contents ##
